@@ -1,6 +1,4 @@
 # 💫 About Me:
-Hi , i am a student pursuing B-tech Ed.IT first years.
-
 
 
 <h1 align="center">Hi 👋, I'm Surendra kumar pasi</h1>
