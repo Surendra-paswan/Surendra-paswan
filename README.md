@@ -21,5 +21,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surendra-paswan&show_icons=true&locale=en" alt="surendra-paswan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surendra-paswan&" alt="surendra-paswan" /></p>
-
 >
+<h3>My Achievements:</h3>
+<ol>
+  <li>
+    Code Fest 2025 Certicate by Code For Change:
+    <img src="volunteer code first 2025 hakathone .jpeg" alt="Code Fest 2025 Provinical phase certificate from Code For Change"/>
+  </li>
+    <li>
+    Volunteer Certificate from Radiant College:
+    <img src="Volunteer.jpeg" alt="Volunteer Certificate of the HTML, CSS in Radiant College"/>
+  </li>
+</ol>
