@@ -24,11 +24,11 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/surendra-paswan-1338ab351/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" title="Connect with me on LinkedIn" />
 </a>
 
 <a href="https://www.youtube.com/c/technicaltips8484" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube" title="Watch my tutorials on YouTube" />
 </a>
 
 </p>
@@ -39,7 +39,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js,react,tailwind,dotnet,mysql,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js,react,tailwind,dotnet,mysql,linux" 
+style="transition: transform 0.3s; cursor: pointer;" 
+onmouseover="this.style.transform='scale(1.2)'" 
+onmouseout="this.style.transform='scale(1)'" 
+title="Hover to zoom icons" />
 
 </p>
 
@@ -51,8 +55,8 @@
 |--------|------------|
 | HTML & CSS | ██████████ 90% |
 | JavaScript | █████████░ 85% |
-| React JS | ████████░░ 70% |
-| .NET Development | ████████░░ 70% |
+| React JS | ████████░░ 80% |
+| .NET Development | ████████░░ 80% |
 | MySQL | ███████░░░ 75% |
 | C / C++ / Java | ███████░░░ 75% |
 
@@ -83,38 +87,17 @@
 ## 🏆 Achievements
 
 🥇 Code Fest 2025 – Code For Change  
+<img src="volunteer code first 2025 hakathone .jpeg" width="400" title="Code Fest 2025 Certificate"/>
+
 🤝 Volunteer – Radiant College IT Training  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=surendra-paswan&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=surendra-paswan&theme=tokyonight" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-paswan&layout=compact&theme=tokyonight" />
-</p>
+<img src="Volunteer.jpeg" width="400" title="Volunteer Certificate"/>
 
 ---
 
 ## 🐍 Contribution Graph Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 ---
