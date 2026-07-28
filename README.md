@@ -1,53 +1,34 @@
-<!-- Typing Animation -->
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Surendra+Kumar+Pasi;Aspiring+Software+Engineer;ASP.NET+Core+%7C+React+Developer;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Surendra+Kumar+Pasi;Aspiring+Software+Engineer;ASP.NET+Core+Developer;React+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Surendra Kumar Pasi</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Full Stack Developer | ASP.NET Core & React Developer 🇳🇵
+Aspiring Software Engineer | ASP.NET Core Developer | React Developer 🇳🇵
 </h3>
 
 <p align="center">
-Passionate about building modern, scalable, and user-friendly web applications while continuously learning new technologies.
+Passionate about building modern web applications, learning new technologies, and improving my software development skills.
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Bachelor's Student at **Kathmandu University – Radiant College**
 
-💻 Passionate about **Software Engineering** and **Web Development**
+💻 Passionate about **Software Development** and **Web Technologies**
 
-🌱 Currently learning **Advanced ASP.NET Core, Clean Architecture, REST APIs, Entity Framework Core, and React**
+🌱 Currently learning **ASP.NET Core, React, Clean Architecture, Entity Framework Core, and Web API Development**
 
-🛠️ Interested in developing scalable, secure, and high-performance web applications
+🚀 Interested in developing scalable and maintainable software solutions
 
-🚀 Love solving real-world problems through technology
+📖 I enjoy solving programming problems and continuously improving my technical skills through projects and hands-on learning.
 
-🎯 Goal: **Become a Senior Software Engineer and contribute to impactful software products**
-
----
-
-# 💼 Professional Summary
-
-I am an enthusiastic Software Developer with hands-on experience developing web applications using **ASP.NET Core**, **C#**, **React**, and **SQL Server**.
-
-I enjoy transforming ideas into practical software solutions and continuously improving my development skills through real-world projects, internships, and self-learning.
-
-I have experience working with:
-
-- RESTful APIs
-- Entity Framework Core
-- SQL Server
-- Git & GitHub
-- Unit Testing
-- Integration Testing
-- Full Stack Web Development
-
-I believe in writing **clean**, **maintainable**, and **scalable** code while following software engineering best practices.
+🎯 My goal is to become a skilled **Software Engineer** and contribute to meaningful software products.
 
 ---
 
@@ -59,131 +40,109 @@ I believe in writing **clean**, **maintainable**, and **scalable** code while fo
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,js"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,cs" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
+<img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-SQL Server
-
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Technologies
+**Also familiar with:** SQL Server
+
+### 🔧 Tools & Technologies
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio" />
 </p>
 
 ---
 
-# 📈 Technical Skills
+# 🌱 Currently Learning
 
-| Skill | Level |
-|-------|-------|
-| HTML5 & CSS3 | ██████████ 90% |
-| JavaScript | █████████░ 85% |
-| React.js | ████████░░ 80% |
-| C# & ASP.NET Core | ████████░░ 85% |
-| REST API Development | ████████░░ 85% |
-| SQL Server | ████████░░ 80% |
-| Entity Framework Core | ███████░░░ 75% |
-| Git & GitHub | ████████░░ 80% |
-| Python | ███████░░░ 75% |
-| Java | ███████░░░ 75% |
-| C & C++ | ███████░░░ 75% |
+- ASP.NET Core Best Practices
+- Clean Architecture
+- Entity Framework Core
+- REST API Development
+- React.js
+- Data Structures & Algorithms
+- Software Design Principles
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌐 E-Commerce Web Application
-
-- Full Stack Development
-- Authentication & Authorization
-- Product Management
-- Admin Dashboard
-- SQL Server Database
-
----
-
-## 👨‍🎓 Student Management System
-
-- CRUD Operations
-- SQL Server
-- ASP.NET Core
-- Responsive UI
-
----
-
-## 🔐 Authentication & Identity Management
-
-- JWT Authentication
-- Role-Based Authorization
-- ASP.NET Core Identity
-
----
-
-## 📚 Learning Projects
+### 📌 Job Sector Setup System
 
 - ASP.NET Core Web API
-- React Applications
-- Entity Framework Core
-- Clean Architecture
-- Design Patterns
+- React
+- CRUD Operations
+- SQL Server
 
 ---
 
-# 🏆 Experience
+### 📌 Student Management System
 
-### 💼 .NET Developer Intern
+- ASP.NET Core
+- SQL Server
+- CRUD Operations
 
-- Developed ASP.NET Core applications
-- Built REST APIs
+---
+
+### 📌 E-Commerce Web Application
+
+- Product Management
+- Authentication
+- Admin Dashboard
+
+---
+
+### 📌 Learning Projects
+
+- REST APIs
+- Entity Framework Core
+- Razor Pages
+- React Components
+
+---
+
+# 💼 Experience
+
+### .NET Developer Intern
+
+- Worked with ASP.NET Core
+- Developed REST APIs
 - Worked with SQL Server
-- Used Git for version control
-- Performed Unit Testing
-- Performed Integration Testing
+- Used Git & GitHub
+- Wrote Unit Tests
+- Participated in Integration Testing
+- Collaborated with team members on real-world projects
 
 ---
 
@@ -191,9 +150,9 @@ SQL Server
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -203,40 +162,58 @@ SQL Server
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 📈 GitHub Activity
 
-✅ Master ASP.NET Core
+<p align="center">
 
-✅ Master React
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
 
-✅ Learn Microservices
+</p>
 
-✅ Learn Clean Architecture
+---
 
-✅ Contribute to Open Source
+# 🎯 Career Goals
 
-✅ Build Production-Level Full Stack Applications
+- Become a skilled Software Engineer
+- Build scalable web applications
+- Improve problem-solving skills
+- Contribute to open-source projects
+- Continue learning modern technologies
 
-✅ Become a Senior Software Engineer
+---
+
+# 📚 Interests
+
+- Web Development
+- Backend Development
+- ASP.NET Core
+- React
+- Software Engineering
+- Open Source
+- Learning New Technologies
 
 ---
 
 <h3 align="center">
 
-⭐ "Building Software That Makes a Difference."
+⭐ Thanks for visiting my GitHub profile!
+
+I'm always learning, building, and improving. Feel free to explore my repositories and connect with me on LinkedIn.
 
 </h3>
